@@ -1,2 +1,31 @@
+lab instructions:
+https://docs.google.com/document/d/1vNkLTDgQUCsWPllVyYCVRdZ9iypd34REJHIXkcJF4Bk/edit#
+
+
 http://mrdreambot.ddns.net/
 http://mrdreambot.ddns.net/exposing-fis-based-service-as-a-3scale-api-my-learning-journey-part-1/
+
+containers:
+https://kubernetes.io/ vs https://www.docker.com/what-docker however Paul prefers the first.
+
+https://www.openshift.com/
+
+linux atomic
+http://rhelblog.redhat.com/2017/03/13/introducing-the-red-hat-enterprise-linux-atomic-base-image/
+
+registry
+https://docs.openshift.com/container-platform/3.3/install_config/registry/index.html
+
+openshift for developers
+
+
+
+source for build and push to opensource:
+https://github.com/loubonta/agile-integration-customers
+
+customers using this:
+https://api.tfl.gov.uk/
+https://www.qantas.com/travel/airlines/help-apis/global/en
+
+
+
